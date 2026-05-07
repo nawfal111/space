@@ -27,8 +27,8 @@ namespace Space_Invaders
 
         private void bSave_Click(object sender, EventArgs e)
         {
-            
-            
+            GameSettings.Volume = tbVolume.Value;
+            Close();
         }
     }
 }

@@ -32,8 +32,8 @@ namespace Space_Invaders
 
         private void bSave_Click(object sender, EventArgs e)
         {
-            string Nickname;
-            Nickname = tbName.Text;
+            if (!string.IsNullOrWhiteSpace(tbName.Text))
+                GameSettings.Nickname = tbName.Text;
         }
 
         private void WelcomeForm_Load(object sender, EventArgs e)
