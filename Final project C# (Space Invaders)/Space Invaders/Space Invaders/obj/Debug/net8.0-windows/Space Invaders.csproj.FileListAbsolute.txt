@@ -1,0 +1,20 @@
+C:\Users\WINDOWS 10\Desktop\Final project C# (Space Invaders)\Space Invaders\Space Invaders\bin\Debug\net8.0-windows\Space Invaders.exe
+C:\Users\WINDOWS 10\Desktop\Final project C# (Space Invaders)\Space Invaders\Space Invaders\bin\Debug\net8.0-windows\Space Invaders.deps.json
+C:\Users\WINDOWS 10\Desktop\Final project C# (Space Invaders)\Space Invaders\Space Invaders\bin\Debug\net8.0-windows\Space Invaders.runtimeconfig.json
+C:\Users\WINDOWS 10\Desktop\Final project C# (Space Invaders)\Space Invaders\Space Invaders\bin\Debug\net8.0-windows\Space Invaders.dll
+C:\Users\WINDOWS 10\Desktop\Final project C# (Space Invaders)\Space Invaders\Space Invaders\bin\Debug\net8.0-windows\Space Invaders.pdb
+C:\Users\WINDOWS 10\Desktop\Final project C# (Space Invaders)\Space Invaders\Space Invaders\obj\Debug\net8.0-windows\Space_Invaders.WelcomeForm.resources
+C:\Users\WINDOWS 10\Desktop\Final project C# (Space Invaders)\Space Invaders\Space Invaders\obj\Debug\net8.0-windows\Space_Invaders.SettingForm.resources
+C:\Users\WINDOWS 10\Desktop\Final project C# (Space Invaders)\Space Invaders\Space Invaders\obj\Debug\net8.0-windows\Space_Invaders.Properties.Resources.resources
+C:\Users\WINDOWS 10\Desktop\Final project C# (Space Invaders)\Space Invaders\Space Invaders\obj\Debug\net8.0-windows\Space Invaders.csproj.GenerateResource.cache
+C:\Users\WINDOWS 10\Desktop\Final project C# (Space Invaders)\Space Invaders\Space Invaders\obj\Debug\net8.0-windows\Space Invaders.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\WINDOWS 10\Desktop\Final project C# (Space Invaders)\Space Invaders\Space Invaders\obj\Debug\net8.0-windows\Space Invaders.AssemblyInfoInputs.cache
+C:\Users\WINDOWS 10\Desktop\Final project C# (Space Invaders)\Space Invaders\Space Invaders\obj\Debug\net8.0-windows\Space Invaders.AssemblyInfo.cs
+C:\Users\WINDOWS 10\Desktop\Final project C# (Space Invaders)\Space Invaders\Space Invaders\obj\Debug\net8.0-windows\Space Invaders.csproj.CoreCompileInputs.cache
+C:\Users\WINDOWS 10\Desktop\Final project C# (Space Invaders)\Space Invaders\Space Invaders\obj\Debug\net8.0-windows\Space Invaders.dll
+C:\Users\WINDOWS 10\Desktop\Final project C# (Space Invaders)\Space Invaders\Space Invaders\obj\Debug\net8.0-windows\refint\Space Invaders.dll
+C:\Users\WINDOWS 10\Desktop\Final project C# (Space Invaders)\Space Invaders\Space Invaders\obj\Debug\net8.0-windows\Space Invaders.pdb
+C:\Users\WINDOWS 10\Desktop\Final project C# (Space Invaders)\Space Invaders\Space Invaders\obj\Debug\net8.0-windows\Space Invaders.genruntimeconfig.cache
+C:\Users\WINDOWS 10\Desktop\Final project C# (Space Invaders)\Space Invaders\Space Invaders\obj\Debug\net8.0-windows\ref\Space Invaders.dll
+C:\Users\WINDOWS 10\Desktop\Final project C# (Space Invaders)\Space Invaders\Space Invaders\bin\Debug\net8.0-windows\Space Invaders.dll.config
+C:\Users\WINDOWS 10\Desktop\Final project C# (Space Invaders)\Space Invaders\Space Invaders\obj\Debug\net8.0-windows\Space_Invaders.Game.resources
